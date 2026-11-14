@@ -13,7 +13,8 @@
   "files": [
     "Paratrooper.js",
     "Paratrooper.d.ts",
-    "Paratrooper.js.map"
+    "Paratrooper.js.map",
+    "Paratrooper.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
